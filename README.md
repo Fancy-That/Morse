@@ -10,5 +10,7 @@ decode=decodeString(decode);
 console.log(encode,'\n',decode);
 ```
 #### Output
+```
 .... . .-.. .-.. --- --..-- / .-- --- .-. .-.. -.. -.-.-- /  
  HEY NOW!
+```
